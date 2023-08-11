@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/app_navigation"
+    app:startDestination="@id/app_home">
+
+    <fragment
+        android:id="@+id/app_home"
+        android:name="edu.msudenver.cs3013.project01.HomeFragment"
+        android:label="APP+ | Explore"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_app_home_to_articleContentFragment"
+            app:destination="@id/articleContentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/articleContentFragment"
+        android:name="edu.msudenver.cs3013.project01.ArticleContentFragment"
+        android:label="Article"
+        tools:layout="@layout/fragment_article_content" />
+    <fragment
+        android:id="@+id/weatherFragment"
+        android:name="edu.msudenver.cs3013.project01.WeatherFragment"
+        android:label="fragment_weather"
+        tools:layout="@layout/fragment_weather" />
+    <fragment
+        android:id="@+id/app_account"
+        android:name="edu.msudenver.cs3013.project01.AccountFragment"
+        android:label="Account"
+        tools:layout="@layout/fragment_account" />
+</navigation>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">APP+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">settings</string>
+    <string name="home">Home\n</string>
+    <string name="account">Account</string>
+
+
+    <!--    RECYCLERVIEW STRINGS -->
+    <string name="main_title">NEWS!!!!</string>
+    <string name="saved">Saved</string>
+    <string name="Account">Account</string>
+    <string name="explore">Explore</string>
+    <string name="welcome_message">Welcome Back William!</string>
+    <string name="btn_text">Button Text 1</string>
+    <string name="btn_text_1">Button Text 1</string>
+    <string name="lorem_text_1">"Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Sit amet, consectetur "</string>
+    <string name="author">Author</string>
+    <string name="featured_text">FEATURED</string>
+    <string name="article_title">Article Title</string>
+    <string name="sources">Sources</string>
+    <string name="country_filter">Country</string>
+    <string name="no_content">No Content</string>
+    <string name="quick_read">Quick Read</string>
+    <string name="top_headlines">top headlines</string>
+    <string name="business">business</string>
+    <string name="technology">technology</string>
+    <string name="entertainment">entertainment</string>
+    <string name="headlines">top headlines</string>
+    <string name="category_name">category</string>
+    <string name="status">Active</string>
+    <string name="subscribed_title">Subscription Status</string>
+    <string name="subscription_details">Subscription Details</string>
+    <string name="subscribed_type">Subscription:</string>
+    <string name="premium">Premium</string>
+    <string name="premium_details">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="premium_access">Access: Everything Included In Free + Premium Features</string>
+    <string name="loadingDialog">Fetching News...</string>
+
+</resources>
+

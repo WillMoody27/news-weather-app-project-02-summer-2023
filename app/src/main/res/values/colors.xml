@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Color Linked To Status Bar -->
+    <color name="primary_bg_color">#FFFFFF</color>
+
+    <!--    Primary Colors -->
+    <color name="app_main_color">#02A4FF</color>
+    <color name="app_secondary_color">#ECECEC</color>
+    <color name="app_grey_text">#E1E1E1</color>
+    <color name="app_grey_text_2">#BBBBBB</color>
+    <color name="app_grey_text_3">#AEAEAE</color>
+    <color name="app_grey_text_4">#C6C6C6</color>
+    <color name="app_logo_text">#696969</color>
+
+
+    <color name="primary_text_color">#C9C9C9</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#9B6FFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+
+    <!--    Blue 500 -->
+    <color name="blue_500">#00B7FF</color>
+
+    <!--
+        TODO: Gradient Colors - Replace Later
+    -->
+    <color name="top_color">#000000</color>
+    <color name="bottom_color">#4C79AF</color>
+
+    <!--    RED -->
+    <color name="red_A400">#FF1744</color>
+
+    <color name="glass_white_A400">#37FFFFFF</color>
+    <color name="category_color">#FF5C00</color>
+</resources>
